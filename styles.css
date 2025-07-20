@@ -4,11 +4,12 @@
     --lt-gray: #eaeaea;
     --med-gray: #555;
     --dk-gray: #222;
+    --white: #fff;
 }
 
 body{
     line-height: 1.35;
-    color: var(--lt-gray);
+    color: var(--dk-gray);
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
     margin: 0;
